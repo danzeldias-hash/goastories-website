@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pesto chicken illustration">
+  <rect width="600" height="420" rx="28" fill="#f7f8eb"/>
+  <rect x="120" y="132" width="360" height="174" rx="34" fill="#2e7d32"/>
+  <path d="M184 268c24-33 63-53 108-53 45 0 84 19 111 52-25 20-55 30-89 31-38 1-75-8-130-30z" fill="#f5d76e"/>
+  <path d="M214 220c20-22 44-32 73-33 29-1 56 8 78 28-16 11-35 17-58 18-28 1-55-6-93-13z" fill="#4caf50"/>
+  <path d="M196 164c20-24 52-38 85-38 36 0 72 15 96 39" stroke="#1b5e20" stroke-width="10" stroke-linecap="round"/>
+  <path d="M196 302h210" stroke="#1b5e20" stroke-width="12" stroke-linecap="round"/>
+  <path d="M232 214c8 18 17 31 30 48" stroke="#7cb342" stroke-width="8" stroke-linecap="round"/>
+</svg>

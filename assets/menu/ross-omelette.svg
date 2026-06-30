@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Ross Omelette illustration">
+  <rect width="600" height="420" rx="28" fill="#fff8eb"/>
+  <rect x="120" y="108" width="360" height="220" rx="40" fill="#f6c95f"/>
+  <path d="M165 186c26-37 76-54 116-41 44 14 72 58 74 105 1 15-2 30-8 44H174c-10-16-16-35-16-57 0-17 3-34 7-51z" fill="#fff3d0"/>
+  <path d="M188 188c31-26 71-34 107-20 17 7 33 20 44 36-20 11-41 17-60 18-29 1-58-7-91-34z" fill="#8b5e3c"/>
+  <circle cx="236" cy="176" r="12" fill="#e74c3c"/>
+  <circle cx="278" cy="168" r="12" fill="#e67e22"/>
+  <circle cx="312" cy="188" r="12" fill="#f1c40f"/>
+  <path d="M168 312h264" stroke="#7a3b12" stroke-width="10" stroke-linecap="round"/>
+  <path d="M183 142c19-30 59-45 95-41" stroke="#7a3b12" stroke-width="12" stroke-linecap="round"/>
+</svg>

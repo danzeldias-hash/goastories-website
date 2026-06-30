@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Recheado chicken illustration">
+  <rect width="600" height="420" rx="28" fill="#fff4e4"/>
+  <rect x="112" y="118" width="376" height="192" rx="30" fill="#c0392b"/>
+  <path d="M166 288c41-37 97-61 157-57 51 3 98 27 123 68-35 24-76 37-120 38-53 1-108-16-160-49z" fill="#f39c12"/>
+  <path d="M208 232c36-34 78-49 115-46 39 3 73 21 99 50-32 16-69 24-108 23-49 0-92-15-106-27z" fill="#8e44ad"/>
+  <path d="M214 188c13-38 44-62 81-61 40 2 78 28 91 68-35 6-68 8-103 5-28-3-57-7-69-12z" fill="#fff3d6"/>
+  <path d="M160 152c25-26 58-38 90-36" stroke="#7a3b12" stroke-width="10" stroke-linecap="round"/>
+  <path d="M180 322c41 18 86 24 132 18" stroke="#f9c74f" stroke-width="12" stroke-linecap="round"/>
+</svg>

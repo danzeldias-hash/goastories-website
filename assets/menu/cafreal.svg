@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cafreal bun illustration">
+  <rect width="600" height="420" rx="28" fill="#f6fbf4"/>
+  <rect x="126" y="126" width="348" height="168" rx="36" fill="#49a078"/>
+  <path d="M172 226c20-40 60-64 107-63 56 1 100 31 121 74-37 24-80 37-127 38-41 1-82-10-101-49z" fill="#fff5d6"/>
+  <path d="M216 172c18-19 44-29 71-29 33 0 59 14 76 38-26 5-51 10-79 11-22 1-41-3-68-20z" fill="#3e7b4f"/>
+  <path d="M184 160c24-28 61-44 101-42" stroke="#2e5d3a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M184 292h232" stroke="#2e5d3a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M230 230c10 20 18 40 18 62" stroke="#f39c12" stroke-width="10" stroke-linecap="round"/>
+</svg>

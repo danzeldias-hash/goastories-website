@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Chicken cutlet illustration">
+  <rect width="600" height="420" rx="28" fill="#fff6e9"/>
+  <ellipse cx="300" cy="248" rx="142" ry="98" fill="#f6b93b"/>
+  <ellipse cx="300" cy="232" rx="118" ry="78" fill="#fff4d6"/>
+  <path d="M214 170c12-27 35-45 64-52 31-7 64 0 88 20-25 4-48 16-70 33-22 17-45 35-58 56-10-19-22-37-24-57z" fill="#8b5e3c"/>
+  <path d="M226 228c18 6 37 10 57 10 25 0 48-5 69-16" stroke="#d35400" stroke-width="10" stroke-linecap="round"/>
+  <path d="M212 288c25 19 46 28 79 28 34 0 58-10 92-33" stroke="#7a3b12" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="258" cy="216" r="9" fill="#e74c3c"/>
+  <circle cx="334" cy="210" r="9" fill="#e67e22"/>
+</svg>

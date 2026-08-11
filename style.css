@@ -109,7 +109,12 @@ section {
     margin: 0 auto;
 }
 
-.today, .connect {
+.today {
+    text-align: center;
+    padding-top: 1.5rem;
+}
+
+.connect {
     text-align: center;
 }
 

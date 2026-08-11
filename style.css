@@ -174,6 +174,57 @@ section {
     box-shadow: 0 12px 25px rgba(37, 211, 102, 0.3);
 }
 
+.party-orders {
+    background: linear-gradient(135deg, rgba(245, 166, 35, 0.1), rgba(122, 59, 18, 0.05));
+    border: 2px solid var(--accent);
+    border-radius: 20px;
+    text-align: center;
+}
+
+.party-orders h2 {
+    color: var(--accent-dark);
+    margin-bottom: 0.5rem;
+}
+
+.party-tagline {
+    font-size: 1.1rem;
+    color: var(--accent-dark);
+    font-weight: 500;
+    margin: 0.5rem 0;
+    letter-spacing: 0.05em;
+}
+
+.party-description {
+    font-size: 1rem;
+    color: var(--text);
+    margin: 0.5rem 0 1.5rem;
+    font-style: italic;
+}
+
+.party-cta {
+    margin-top: 1.5rem;
+}
+
+.whatsapp-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background: #25d366;
+    color: white;
+    padding: 0.85rem 1.5rem;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 8px 20px rgba(37, 211, 102, 0.25);
+}
+
+.whatsapp-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(37, 211, 102, 0.35);
+}
+
 @media (max-width: 900px) {
     .menu-grid {
         grid-template-columns: 1fr;
